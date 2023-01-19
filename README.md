@@ -1,1 +1,1 @@
-# PreapareIQ-OMR
+# PrepareIQ-OMR
